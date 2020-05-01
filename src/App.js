@@ -50,9 +50,9 @@ class App extends Component {
               className="footer__link"
               target="_blank"
               rel="noopener noreferrer"
-              href="https://pachi.dev"
+              href="https://hackcovit.com"
             >
-              @pachicodes
+              @hackcovit
             </a>
           </p>
         </footer>
